@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Polyana Aguiar
 - 👀 I’m passionate about discovering the wolrd around me and look for solutions to it's problems
-- 🌱 I’m currently learning programming in JS
+- 🌱 I’m currently learning programming in Python
 - 📫 You can reach me by polyana.karynne@hotmail.com
 
 <!---
