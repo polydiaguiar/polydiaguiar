@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Polyana Aguiar
-- 👀 I’m passionate about discovering the wolrd around me and look for solutions to it's problems
-- 🌱 I’m currently learning programming in Python
+- 👋 Hi, there! I’m Polyana Aguiar
+- 👀 I’m passionate about discovering the world around me and look for solutions to it's problems
+- 🌱 I'm becoming a data analyst specializing in sustainability, inspired to use tech to discover insights and deliver fair, ethical, and sustainable solutions
 - 📫 You can reach me by polyana.karynne@hotmail.com
 
 <!---
